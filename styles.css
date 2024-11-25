@@ -356,7 +356,7 @@ footer {
 
     .hero-content {
         max-width: 100%;
-        margin-bottom: -4rem; /* Añadido: reduce el espacio inferior en mobile */
+        margin-bottom: 0rem; /* Añadido: reduce el espacio inferior en mobile */
         flex: 0
     }
 
